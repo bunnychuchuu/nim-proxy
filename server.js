@@ -70,6 +70,7 @@ const MODEL_MAPPING = {
   'google-lighter': 'google/gemma-3n-e4b-it',
   'm2.7': 'minimaxai/minimax-m2.7',
   'm3': 'minimaxai/minimax-m3',
+  'glm-5.3': 'z-ai/glm-5.3',
   'step-3.5-flash': 'stepfun-ai/step-3.5-flash',
   'step-3.7-flash': 'stepfun-ai/step-3.7-flash'
 };
